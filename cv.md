@@ -12,3 +12,7 @@ Knowledge of Delphi, C, Java, FASM, SQL. Experience in using Git.
 
 ## Education
 BSUIR, Future software engineer (2nd course)
+
+## English
+B1 (Intermediate)
+Practice of reading documentation in English from 1st course
